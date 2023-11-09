@@ -1,6 +1,6 @@
 # goit-typescript-hw-01
 
-## Кроки створення та налаштування проекту TypeScript:
+## Кроки створення та налаштування проєкту TypeScript:
 
 • `npm install -g typescript` - встановлення TypeScript;
 
